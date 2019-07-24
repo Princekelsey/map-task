@@ -13,7 +13,7 @@ function App() {
     setAddress(e.target.value);
   };
 
-  const REACT_APP_GOOGLE_KEY = "AIzaSyCeL7XdatKWo3Cjvfwc6qtwkTBCTZcxOL4";
+  const REACT_APP_GOOGLE_KEY = "";
 
   // making a get request to the api to get  all tasks
   const getTasks = () => {
